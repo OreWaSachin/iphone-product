@@ -1,0 +1,39 @@
+
+{
+
+
+"data":[
+   
+
+    
+    {
+    "id": "1",
+    "image":"https://www.apple.com/v/iphone/home/bl/images/overview/compare/compare_iphone_14_pro__cjmfbiggqhpy_medium_2x.jpg",
+    "name":"iPhone14 Pro",
+    "title":"The Ultimate Phone.",
+    "price":"999"
+},
+{
+    "id": "2",
+    "image":"https://www.apple.com/v/iphone/home/bl/images/overview/compare/compare_iphone_14__ct4sjk962pea_medium_2x.jpg",
+    "name":"iPhone14",
+    "title":"A total powerhouse.",
+    "price":"799"
+},
+{
+    "id": "3",
+    "image":"https://www.apple.com/v/iphone/home/bl/images/overview/compare/compare_iphone_13__fqzwhmfmroey_medium_2x.jpg",
+    "name":"iPhone13",
+    "title":"As amazing as ever.",
+    "price":"599"
+},
+{
+    "id": "4",
+    "image":"https://www.apple.com/v/iphone/home/bl/images/overview/compare/compare_iphone_se__d5blqx1pgymq_medium_2x.jpg",
+    "name":"iPhone",
+    "title":"Serious power. Serious value",
+    "price":"429"
+}
+    
+]
+}
