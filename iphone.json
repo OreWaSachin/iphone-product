@@ -11,28 +11,68 @@
     "image":"https://www.apple.com/v/iphone/home/bl/images/overview/compare/compare_iphone_14_pro__cjmfbiggqhpy_medium_2x.jpg",
     "name":"iPhone14 Pro",
     "title":"The Ultimate Phone.",
-    "price":"999"
+    "price":"999",
+    "camera":"https://www.apple.com/v/iphone/home/bl/images/overview/compare/icon_14_pro_camera__fxu2mrckyk2u_large_2x.png",
+    "cam-det":"48MP Main Ultra Wide Telephoto Photonic Engine for incredible detail and colour Autofocus on TrueDepth front camera",
+    "fiv":"https://www.apple.com/v/iphone/home/bl/images/overview/compare/icon_5g__f6zugtbm15ua_large.png",
+    "fiv-de":"Superfast 5G cellular",
+    "battery":"https://www.apple.com/v/iphone/home/bl/images/overview/compare/icon_battery__wqowcbwj50y2_large_2x.png",
+    "bat":"Up to 29 hours video playback",
+    "face":"https://www.apple.com/v/iphone/home/bl/images/overview/compare/icon_face_id__eyzciiwkc5oy_large_2x.png",
+    "face-de":"Face ID",
+    "sos":"https://www.apple.com/v/iphone/home/bl/images/overview/compare/icon_sos__d13do2p9n7qu_large_2x.png",
+    "soe-de":"Emergency SOS"
 },
 {
     "id": "2",
     "image":"https://www.apple.com/v/iphone/home/bl/images/overview/compare/compare_iphone_14__ct4sjk962pea_medium_2x.jpg",
     "name":"iPhone14",
     "title":"A total powerhouse.",
-    "price":"799"
+    "price":"799",
+    "camera":"https://www.apple.com/v/iphone/home/bl/images/overview/compare/icon_14_camera__e6tkwcfw12wm_large_2x.png",
+    "cam-det":"12MP Main Ultra Wide Telephoto Photonic Engine for incredible detail and colour Autofocus on TrueDepth front camera",
+    "fiv":"https://www.apple.com/v/iphone/home/bl/images/overview/compare/icon_5g__f6zugtbm15ua_large.png",
+    "fiv-de":"Superfast 5G cellular",
+    "battery":"https://www.apple.com/v/iphone/home/bl/images/overview/compare/icon_battery__wqowcbwj50y2_large_2x.png",
+    "bat":"Up to 26 hours video playback",
+    "face":"https://www.apple.com/v/iphone/home/bl/images/overview/compare/icon_face_id__eyzciiwkc5oy_large_2x.png",
+    "face-de":"Face ID",
+    "sos":"https://www.apple.com/v/iphone/home/bl/images/overview/compare/icon_sos__d13do2p9n7qu_large_2x.png",
+    "soe-de":"Emergency SOS"
 },
 {
     "id": "3",
     "image":"https://www.apple.com/v/iphone/home/bl/images/overview/compare/compare_iphone_13__fqzwhmfmroey_medium_2x.jpg",
     "name":"iPhone13",
     "title":"As amazing as ever.",
-    "price":"599"
+    "price":"599",
+    "camera":"https://www.apple.com/v/iphone/home/bl/images/overview/compare/icon_14_camera__e6tkwcfw12wm_large_2x.png",
+    "cam-det":"12MP Main Ultra Wide TrueDepth front camera",
+    "fiv":"https://www.apple.com/v/iphone/home/bl/images/overview/compare/icon_5g__f6zugtbm15ua_large.png",
+    "fiv-de":"Superfast 5G cellular",
+    "battery":"https://www.apple.com/v/iphone/home/bl/images/overview/compare/icon_battery__wqowcbwj50y2_large_2x.png",
+    "bat":"Up to 19 hours video playback",
+    "face":"https://www.apple.com/v/iphone/home/bl/images/overview/compare/icon_face_id__eyzciiwkc5oy_large_2x.png",
+    "face-de":"Face ID",
+    "sos":"https://www.apple.com/v/iphone/home/bl/images/overview/compare/icon_sos__d13do2p9n7qu_large_2x.png",
+    "soe-de":"Emergency SOS"
 },
 {
     "id": "4",
     "image":"https://www.apple.com/v/iphone/home/bl/images/overview/compare/compare_iphone_se__d5blqx1pgymq_medium_2x.jpg",
     "name":"iPhone",
     "title":"Serious power. Serious value",
-    "price":"429"
+    "price":"429",
+    "camera":"https://www.apple.com/v/iphone/home/bl/images/overview/compare/icon_se_camera__cs1t6sujjdiu_large_2x.png",
+    "cam-det":"12MP Main Ultra Wide front camera",
+    "fiv":"https://www.apple.com/v/iphone/home/bl/images/overview/compare/icon_5g__f6zugtbm15ua_large.png",
+    "fiv-de":"Superfast 5G cellular",
+    "battery":"https://www.apple.com/v/iphone/home/bl/images/overview/compare/icon_battery__wqowcbwj50y2_large_2x.png",
+    "bat":"Up to 15 hours video playback",
+    "face":"https://www.apple.com/v/iphone/home/bl/images/overview/compare/icon_touch_id__etlcbgeryay6_large_2x.png",
+    "face-de":"Touch ID",
+    "sos":"https://www.apple.com/v/iphone/home/bl/images/overview/compare/icon_sos__d13do2p9n7qu_large_2x.png",
+    "soe-de":"Emergency SOS"
 }
     
 ]
